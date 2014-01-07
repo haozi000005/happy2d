@@ -32,7 +32,9 @@ public class Click : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		if(transform.rigidbody2D){
+			breakAnimator.enabled = false;
+		}
 	}
 	
 	// Update is called once per frame
@@ -57,6 +59,7 @@ public class Click : MonoBehaviour {
 				Application.LoadLevel(Application.loadedLevelName);
 		}else if(touchEvent == TOUCH_EVENT.BREAK){
 			if(breakAnimator){
+				breakAnimator.enabled = true;
 				breakAnimator.SetBool(animatorControName, true);
 			}else{
 				if(!isRopeStart){
