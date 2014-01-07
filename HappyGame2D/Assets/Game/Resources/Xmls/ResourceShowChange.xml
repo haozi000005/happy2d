@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RECORDS>
+  <RECORD id="1"  srcName="roundSadArea" dstName="roundHappyArea" srcToName="roundHappyArea"/>
+  <RECORD id="2"  srcName="roundSadArea" dstName="squareHappyArea" srcToName="roundHappyArea"/>
+
+  <RECORD id="3"  srcName="roundHappyArea" dstName="roundEvilArea" srcToName="roundSadArea"/>
+  <RECORD id="4"  srcName="roundHappyArea" dstName="squareEvilArea" srcToName="roundSadArea"/>
+         
+  <RECORD id="5"  srcName="squareSadArea" dstName="roundHappyArea" srcToName="squareHappyArea"/>
+  <RECORD id="6"  srcName="squareSadArea" dstName="squareHappyArea" srcToName="squareHappyArea"/>
+
+  <RECORD id="7"  srcName="squareHappyArea" dstName="roundEvilArea" srcToName="squareSadArea"/>
+  <RECORD id="8" srcName="squareHappyArea" dstName="squareEvilArea" srcToName="squareSadArea"/>
+</RECORDS>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RECORDS>
+	<RECORD id="1" areaName="roundHappyArea" faceName="happyFace" faceScaleX="0.12" faceScaleY="0.12"/>
+	<RECORD id="2" areaName="roundHappyArea" faceName="laughFace" faceScaleX="1.0" faceScaleY="1.0"/>
+	<RECORD id="11" areaName="roundHappyArea" faceName="scareFace" faceScaleX="0.1" faceScaleY="0.1"/>
+	
+	<RECORD id="3" areaName="roundSadArea" faceName="sadFace" faceScaleX="0.12" faceScaleY="0.12"/>
+	<RECORD id="12" areaName="roundSadArea" faceName="scareFace" faceScaleX="0.1" faceScaleY="0.1"/>
+	
+	<RECORD id="4" areaName="roundEvilArea" faceName="evilFace" faceScaleX="1.0" faceScaleY="1.0"/>
+	<RECORD id="5" areaName="roundEvilArea" faceName="evilLaughFace" faceScaleX="1.0" faceScaleY="1.0"/>
+	<RECORD id="13" areaName="roundEvilArea" faceName="evilScareFace" faceScaleX="0.1" faceScaleY="0.1"/>
+	
+	
+	<RECORD id="6" areaName="squareHappyArea" faceName="happyFace" faceScaleX="0.12" faceScaleY="0.12"/>
+	<RECORD id="7" areaName="squareHappyArea" faceName="laughFace" faceScaleX="1.0" faceScaleY="1.0"/>
+	<RECORD id="14" areaName="squareHappyArea" faceName="scareFace" faceScaleX="0.1" faceScaleY="0.1"/>
+	
+	<RECORD id="8" areaName="squareSadArea" faceName="sadFace" faceScaleX="0.12" faceScaleY="0.12"/>
+	<RECORD id="15" areaName="squareSadArea" faceName="scareFace" faceScaleX="0.1" faceScaleY="0.1"/>
+	
+	<RECORD id="9" areaName="squareEvilArea" faceName="evilFace" faceScaleX="1.0" faceScaleY="1.0"/>
+	<RECORD id="10" areaName="squareEvilArea" faceName="evilLaughFace" faceScaleX="1.0" faceScaleY="1.0"/>
+	<RECORD id="16" areaName="squareEvilArea" faceName="evilScareFace" faceScaleX="0.1" faceScaleY="0.1"/>
+</RECORDS>

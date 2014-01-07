@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RECORDS>
+	<RECORD id="1" areaName="roundHappyArea" status="1" shape="1"/>
+	<RECORD id="2" areaName="roundSadArea" status="2" shape="1"/>
+	<RECORD id="3" areaName="roundEvilArea" status="3" shape="1"/>
+	
+	<RECORD id="4" areaName="squareHappyArea" status="1" shape="2"/>
+	<RECORD id="5" areaName="squareSadArea" status="2" shape="2"/>
+	<RECORD id="6" areaName="squareEvilArea" status="3" shape="2"/>
+</RECORDS>
